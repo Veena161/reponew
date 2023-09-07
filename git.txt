@@ -1,0 +1,4 @@
+open a repository
+clone it using git clone
+cd/ is used to change directory
+mkdir is used to create folder
